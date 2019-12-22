@@ -1,0 +1,82 @@
+Chromosome/scaffold name:Gene start (bp),Gene stable ID,Gene name,EntrezGene description,Phenotype description
+1:120336641,ENSG00000134193,REG4,"regenerating islet-derived family, member 4",
+1:120454176,ENSG00000134250,NOTCH2,notch 2,ALAGILLE SYNDROME 2
+1:120454176,ENSG00000134250,NOTCH2,notch 2,Hajdu-Cheney syndrome
+1:120454176,ENSG00000134250,NOTCH2,notch 2,Acroosteolysis dominant type
+1:120454176,ENSG00000134250,NOTCH2,notch 2,Alagille syndrome due to a NOTCH2 point mutation
+1:13801445,ENSG00000162494,LRRC38,leucine rich repeat containing 38,
+2:201542956,ENSG00000244301,AOX3P,,
+4:47487305,ENSG00000145246,ATP10D,"ATPase, class V, type 10D",
+4:99391518,ENSG00000168785,TSPAN5,tetraspanin 5,
+4:119321669,ENSG00000230671,NDUFS5P5,,
+5:49961733,ENSG00000151883,PARP8,"poly (ADP-ribose) polymerase family, member 8",
+6:25279306,ENSG00000079691,LRRC16A,leucine rich repeat containing 16A,
+6:35310335,ENSG00000112033,PPARD,peroxisome proliferator-activated receptor delta,
+6:31126319,ENSG00000137310,TCF19,transcription factor 19,
+6:28249314,ENSG00000137338,PGBD1,piggyBac transposable element derived 1,
+6:28021006,ENSG00000182477,OR2B8P,,
+6:28227098,ENSG00000189134,NKAPL,NFKB activating protein-like,
+6:28092338,ENSG00000196812,ZSCAN16,zinc finger and SCAN domain containing 16,
+6:32971955,ENSG00000204252,HLA-DOA,"major histocompatibility complex, class II, DO alpha",
+6:32789610,ENSG00000204267,TAP2,"transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)",BARE LYMPHOCYTE SYNDROME TYPE II COMPLEMENTATION GROUP D
+6:32789610,ENSG00000204267,TAP2,"transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)",Immunodeficiency by defective expression of HLA class 1
+6:32407619,ENSG00000204287,HLA-DRA,"major histocompatibility complex, class II, DR alpha",HEPATITIS B VIRUS SUSCEPTIBILITY TO
+6:32407619,ENSG00000204287,HLA-DRA,"major histocompatibility complex, class II, DR alpha",Graham Little-Piccardi-Lassueur syndrome
+6:32361740,ENSG00000204290,BTNL2,butyrophilin-like 2 (MHC class II associated),SARCOIDOSIS SUSCEPTIBILITY TO 2
+6:32361740,ENSG00000204290,BTNL2,butyrophilin-like 2 (MHC class II associated),Sarcoidosis
+6:32162620,ENSG00000204301,NOTCH4,notch 4,
+6:31236526,ENSG00000204525,HLA-C,"major histocompatibility complex, class I, C",PSORIASIS SUSCEPTIBILITY 13
+6:31236526,ENSG00000204525,HLA-C,"major histocompatibility complex, class I, C",Precursor B-cell acute lymphoblastic leukemia
+6:31105313,ENSG00000204538,PSORS1C2,psoriasis susceptibility 1 candidate 2,
+6:29942889,ENSG00000204625,HCG9,HLA complex group 9 (non-protein coding),
+6:29523292,ENSG00000213886,UBD,ubiquitin D,
+6:28041094,ENSG00000220721,OR1F12,,
+6:29505481,ENSG00000229281,GPR53P,,
+6:33032346,ENSG00000231389,HLA-DPA1,"major histocompatibility complex, class II, DP alpha 1",
+6:31255287,ENSG00000231402,WASF5P,,
+6:32685782,ENSG00000232080,XXbac-BPG254F23.7,,
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",SEVERE CUTANEOUS ADVERSE REACTION SUSCEPTIBILITY TO TOXIC EPIDERMAL NECROLYSIS SUSCEPTIBILITY TO INCLUDED
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",SPONDYLOARTHROPATHY SUSCEPTIBILITY TO 1
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Abacavir toxicity
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Allopurinol toxicity
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Behcet disease
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Flucloxacilline toxicity
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Phenytoin or carbamazepine toxicity
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Pulmonary arterial hypertension associated with connective tissue disease
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Stevens-Johnson syndrome
+6:31321649,ENSG00000234745,HLA-B,"major histocompatibility complex, class I, B",Takayasu arteritis
+6:31192119,ENSG00000255899,XXbac-BPG299F13.16,,
+6:31261685,ENSG00000256166,XXbac-BPG248L24.13,,
+6:28089573,ENSG00000269293,ZSCAN16-AS1,ZSCAN16 antisense RNA 1,
+6:27371789,ENSG00000271755,RP1-153G14.4,,
+8:8175258,ENSG00000182319,SGK223,homolog of rat pragma of Rnd2,
+11:47236493,ENSG00000134574,DDB2,"damage-specific DNA binding protein 2, 48kDa",XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP E
+11:47236493,ENSG00000134574,DDB2,"damage-specific DNA binding protein 2, 48kDa",Xeroderma pigmentosum
+11:47236493,ENSG00000134574,DDB2,"damage-specific DNA binding protein 2, 48kDa",XERODERMA PIGMENTOSUM GROUP E DDB-NEGATIVE SUBTYPE
+11:57001051,ENSG00000134817,APLNR,apelin receptor,
+11:48002113,ENSG00000149177,PTPRJ,"protein tyrosine phosphatase, receptor type, J",
+11:56127691,ENSG00000172487,OR8J1,"olfactory receptor, family 8, subfamily J, member 1",
+11:55944094,ENSG00000174957,OR5J2,"olfactory receptor, family 5, subfamily J, member 2",
+11:56949221,ENSG00000183908,LRRC55,leucine rich repeat containing 55,
+11:56294044,ENSG00000185701,OR5M5P,,
+11:56098823,ENSG00000254722,FAM8A2P,,
+11:56149111,ENSG00000254903,OR8L1P,,
+12:38710380,ENSG00000175548,ALG10B,"ALG10B, alpha-1,2-glucosyltransferase",
+12:38710380,ENSG00000175548,ALG10B,"ALG10, alpha-1,2-glucosyltransferase",
+14:80943330,ENSG00000100629,CEP128,centrosomal protein 128kDa,
+14:63670832,ENSG00000126785,RHOJ,ras homolog family member J,
+15:82380935,ENSG00000259518,RP11-597K23.2,uncharacterized LOC101929690,
+16:46989299,ENSG00000069345,DNAJA2,"DnaJ (Hsp40) homolog, subfamily A, member 2",
+16:15797029,ENSG00000133392,MYH11,"myosin, heavy chain 11, smooth muscle",AORTIC ANEURYSM FAMILIAL THORACIC 4
+16:15797029,ENSG00000133392,MYH11,"myosin, heavy chain 11, smooth muscle",Acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)
+16:15797029,ENSG00000133392,MYH11,"myosin, heavy chain 11, smooth muscle",Familial aortic dissection
+16:15797029,ENSG00000133392,MYH11,"myosin, heavy chain 11, smooth muscle",Familial thoracic aortic aneurysm and aortic dissection
+16:15797029,ENSG00000133392,MYH11,"myosin, heavy chain 11, smooth muscle",Megacystis-microcolon-intestinal hypoperistalsis syndrome
+16:48116884,ENSG00000140798,ABCC12,"ATP-binding cassette, sub-family C (CFTR/MRP), member 12",
+16:46918290,ENSG00000166123,GPT2,glutamic pyruvate transaminase (alanine aminotransferase) 2,Postnatal microcephaly-infantile hypotonia-spastic diplegia-dysarthria-intellectual disability syndrome
+16:48657347,ENSG00000260086,RP11-42I10.1,,
+19:28556174,ENSG00000267509,CTD-2043I16.1,,
+19:28393503,ENSG00000267623,AC022153.1,,
+20:25654851,ENSG00000130684,ZNF337,zinc finger protein 337,
+20:30009239,ENSG00000204547,DEFB122,"defensin, beta 122 (pseudogene)",
+20:29992648,ENSG00000204548,DEFB121,"defensin, beta 121",
