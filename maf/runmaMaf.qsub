@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -l select=1:ncpus=24
+#PBS -l walltime=24:00:00
+#PBS -q smp
+#PBS -P CBBI1243
+#PBS -o /mnt/lustre/groups/CBBI1243/KEVIN/git/GWAS/popstruct/maf/stdout.txt
+#PBS -e /mnt/lustre/groups/CBBI1243/KEVIN/git/GWAS/popstruct/maf/stderr.txt
+#PBS -N MAF
+#PBS -M kevin.esoh@students.jkuat.ac.ke
+#PBS -m b
+
+module add chpc/BIOMODULES
+module load plink/1.90 
+module load R/3.6.0-gcc7.2.0
+
+cd /mnt/lustre/groups/CBBI1243/KEVIN/git/GWAS/popstruct/maf/
+
+#./runmaMaf.sh
+Rscript mafStats.R world.daf.frq world.daf 20 daf 0.05
