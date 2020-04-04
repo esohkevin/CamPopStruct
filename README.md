@@ -14,7 +14,7 @@ region specific to the Bantu population were akin to those previously observed i
 In this Project
 ---
 - The typical GWAS quality control (QC) ([WTCCC expert filters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025522/)) was performed (scripts in qc)
-- Wrayner Perl Script v4.2.9 was sed to check/correct strand againsts the 1000 Genomes Phase 3 reference panel
+- Wrayner Perl Script v4.2.9 was used to check/correct strand againsts the 1000 Genomes Phase 3 reference panel
 - Genotypes were phased (EAGLEv2.4)
 - Population Structure (PS) for QC was performed on phased data (EIGENSOFTv7, smartpca v16000) while pruning out outliers
 - Samples that passed PS above where extracted from phased data into a separate VCF file for downstream analyses
