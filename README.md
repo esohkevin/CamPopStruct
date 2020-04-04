@@ -29,10 +29,14 @@ In this Project
     - FLK and hapFLK were measured using hapFLKv2.4
   - Allele Frequency analysis
 
-Useful Resources
+Useful Links
 ---
 Check strand: https://www.well.ox.ac.uk/~wrayner/tools/HRC-1000G-check-bim-v4.2.9.zip
+
 vcfCooker: https://github.com/statgen/gotcloud/blob/gotcloud.1.17.5/bin/vcfCooker
+
 Human reference genome: ftp://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/human_g1k_v37.fasta.gz
+
 EAGLE: https://data.broadinstitute.org/alkesgroup/Eagle/downloads/
+
 1000 Genomes Populations: http://www.internationalgenome.org/data-portal/sample
