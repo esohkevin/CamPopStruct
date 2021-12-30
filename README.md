@@ -1,6 +1,8 @@
 # CamPopStruct
 Fine-scale genetic structure in South Western Cameroon
 
+Find the publication [here](https://www.nature.com/articles/s41598-020-79124-1)
+
 **Introduction**
 -------
 The study included the Bantu, Semi-Bantu, and Fulani/Foulbe ethnics groups in the South West, Littorale, and Centre regions of Cameroon.
