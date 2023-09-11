@@ -41,4 +41,4 @@ Human reference genome: ftp://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/ref
 
 EAGLE: https://data.broadinstitute.org/alkesgroup/Eagle/downloads/
 
-1000 Genomes Populations: http://www.internationalgenome.org/data-portal/sample
+1000 Genomes Populations: http://www.internationalgenome.org/data-portal/sample.
